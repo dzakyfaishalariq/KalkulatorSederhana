@@ -14,3 +14,4 @@ Aplikasi ini merupakan aplikasi sederhana yang dibangun dengan python dan dicomp
 lakukan installasi dengan mengunduh file main.exe di sini [main.exe](https://github.com/dzakyfaishalariq/KalkulatorSederhana/tree/main/src/dist)
 
 ## Demo applikasi
+Dapat dilihat di sini demo untuk menggunakan applikasi kalkulator [video_kalkulator](https://drive.google.com/file/d/1Ki3ZcE-DEHbZlPDClX5fDO5ix5bxExBs/view?usp=drive_link)
