@@ -11,3 +11,6 @@ Aplikasi ini merupakan aplikasi sederhana yang dibangun dengan python dan dicomp
 
 ## Cara install aplikasinya
 
+lakukan installasi dengan mengunduh file main.exe di sini [main.exe](https://github.com/dzakyfaishalariq/KalkulatorSederhana/tree/main/src/dist)
+
+## Demo applikasi
